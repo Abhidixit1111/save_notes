@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/save_notes.git/static/css/main.0a43063f.css",
+    "main.js": "/save_notes.git/static/js/main.baa67110.js",
+    "static/js/787.74861886.chunk.js": "/save_notes.git/static/js/787.74861886.chunk.js",
+    "index.html": "/save_notes.git/index.html",
+    "main.0a43063f.css.map": "/save_notes.git/static/css/main.0a43063f.css.map",
+    "main.baa67110.js.map": "/save_notes.git/static/js/main.baa67110.js.map",
+    "787.74861886.chunk.js.map": "/save_notes.git/static/js/787.74861886.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a43063f.css",
+    "static/js/main.baa67110.js"
+  ]
+}
